@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WordVPN</string>
+
+    <!-- Login -->
+    <string name="enter_code_title">Enter code</string>
+    <string name="enter_code_hint">6-digit code</string>
+    <string name="get_started">Get Started</string>
+    <string name="downloading">Downloading…</string>
+    <string name="invalid_code">Invalid or expired code</string>
+    <string name="subscription_inactive">Subscription inactive</string>
+    <string name="server_error">Server error</string>
+
+    <!-- Main -->
+    <string name="vpn_title">VPN</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+    <string name="current_server">Server: %1$s</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WordVPN</string>
+
+    <!-- Login -->
+    <string name="enter_code_title">Введите код</string>
+    <string name="enter_code_hint">6-значный код</string>
+    <string name="get_started">Продолжить</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="invalid_code">Неверный или просроченный код</string>
+    <string name="subscription_inactive">Подписка неактивна</string>
+    <string name="server_error">Ошибка сервера</string>
+
+    <!-- Main -->
+    <string name="vpn_title">VPN</string>
+    <string name="status_disconnected">Отключено</string>
+    <string name="status_connected">Подключено</string>
+    <string name="current_server">Сервер: %1$s</string>
+    <string name="connect">Подключить</string>
+    <string name="disconnect">Отключить</string>
+</resources>

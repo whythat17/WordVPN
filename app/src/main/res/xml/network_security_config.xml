@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Разрешаем HTTP только в debug -->
+    <base-config cleartextTrafficPermitted="true" />
+    <!-- Можно точечно ограничить домены/айпи, если хочешь:
+    <domain-config cleartextTrafficPermitted="true">
+        <domain>192.168.1.20</domain>
+    </domain-config>
+    -->
+</network-security-config>
+

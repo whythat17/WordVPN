@@ -1,0 +1,29 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">WordVPN</string>
+
+    <!-- Login screen -->
+    <string name="enter_code_title">Enter access code</string>
+    <string name="enter_code_hint">Code from Telegram</string>
+    <string name="continue_btn">Continue</string>
+    <string name="get_code_in_tg">Where to get the code?</string>
+
+    <!-- Toasters / errors -->
+    <string name="error_invalid_code">Invalid code format</string>
+    <string name="invalid_code">Invalid code</string>
+    <string name="code_rejected">Code rejected</string>
+    <string name="code_accepted">Code accepted</string>
+    <string name="server_unavailable">Server is unavailable</string>
+    <string name="server_error">Server error</string>
+    <string name="subscription_inactive">Subscription is inactive</string>
+
+    <!-- Main screen -->
+    <string name="vpn_title">VPN</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="current_server">Current server</string>
+    <string name="downloading">Downloading…</string>
+    <string name="get_started">Get started</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
